@@ -1,7 +1,7 @@
 {
     "title" : "New Version",
     "message" : "K Google Installer ",
-    "versionCode" : 3,
-    "force" : true,
+    "versionCode" : 3 ,
+    "force" : true ,
     "link" : "https://github.com/Zayar1995/gapp/blob/main/v9/contact.apk?raw=true"
 }
