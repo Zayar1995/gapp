@@ -1,1 +1,7 @@
-R
+{
+    "title" : "New Version",
+    "message" : "- new Theme\n - new Font",
+    "versionCode" : 1,
+    "force" : true,
+    "link" : "apkdownlink"
+}
