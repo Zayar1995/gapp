@@ -1,1 +1,8 @@
-Z
+{
+    "title" : "New Version",
+    "message" : " K Google Installer ",
+    "versionCode" : 1 ,
+    "force" : false ,
+    "link" : "apkdownlink"
+}
+
