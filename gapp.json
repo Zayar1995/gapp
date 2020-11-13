@@ -1,7 +1,7 @@
 {
     "title" : "New Version",
-    "message" : "- new Theme\n - new Font",
+    "message" : " K Google Installer ",
     "versionCode" : 4,
-    "force" : true,
+    "force" : false,
     "link" : "apkdownlink"
 }
